@@ -1,0 +1,5 @@
+- how to push git
+- pengulangan php
+- mencari nilai pada array
+- php array mengambil nilai terkecil
+- menambahkan nilai dalam array php
