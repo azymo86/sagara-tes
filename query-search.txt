@@ -3,3 +3,5 @@
 - mencari nilai pada array
 - php array mengambil nilai terkecil
 - menambahkan nilai dalam array php
+- menghitung kata pada kalimat php
+- mencari kesamaan kata pada kalimat
