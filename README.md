@@ -1,6 +1,6 @@
 # sagara-tes
 
-Repository berisikan jawaban tes pendaftaran pelatihan di Sagara.
+Repository berisikan jawaban tes pendaftaran di Sagara.
 
 
 LOGIC-tes
